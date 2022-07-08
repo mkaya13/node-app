@@ -1,1 +1,2 @@
 "mert" : 5
+"mehmet": 10
