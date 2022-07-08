@@ -1,2 +1,3 @@
 "mert" : 5
 "mehmet": 10
+"caner" : 18
